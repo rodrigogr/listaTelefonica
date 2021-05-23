@@ -1,0 +1,29 @@
+.jumbotron {
+    width: 600px;
+    text-align: center;
+    margin: 20px auto auto
+}
+ .form-control {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.formContato label {
+    display: block;
+}
+.jumbotron button {
+    display: block;
+    width: 100%;
+    margin-bottom: 5px
+}
+.jumbotron select {
+    margin-top: 20px;
+}
+.table {
+    margin-top: 20px;
+}
+.selecionado {
+    background-color: chocolate;
+}
+.negrito {
+    font-weight: bold;
+}
